@@ -1,0 +1,8 @@
+STEP BY STEP GUIDE ON HOW TO OPEN  ANACONDA PROMPT
+STEP 1: Go to the down part of your labtop and click on the WINDOW/START BUTTON
+Type ANACONDA Prompt (it will pop up)
+Click ANACONDA3  to open it (BLACK SCREEN will appear)
+
+STEP 2
+Go to JUPYTER LAB (In the black screen, type jupyter Lab and click on ENTER. Wait for 10seconds)
+Search for the folder you need ,launch it (unzip by double clicking it)
