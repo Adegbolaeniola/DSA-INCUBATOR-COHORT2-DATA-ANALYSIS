@@ -17,3 +17,5 @@ Explanation:
 name stores text, so it is a string.
 age stores a whole number, so it is an integer.
 height stores a decimal number, so it is a float.
+
+
